@@ -10,7 +10,7 @@ import javax.ws.rs.core.Response;
 /**
  * @author Michael Morello
  */
-@Path("/ready")
+@Path("/alive")
 /**
  * <p>
  *     Just tell Kubernetes that we are alive
